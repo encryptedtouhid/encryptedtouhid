@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/cowboycoding.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome to the Khaled's github extravaganza! </h1>
 
 ![C#](https://img.shields.io/badge/CSharp-2A6EBB?style=flat-square&logo=CSharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-f1c232?style=flat-square&logo=openjdk&logoColor=white)
