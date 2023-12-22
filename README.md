@@ -22,6 +22,6 @@
 
 
 ### Numbers
-![Khaled's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-![Khaled's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=darcula&hide_border=true)
-![Khaled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Khaled's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Khaled's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=dark&hide_border=true)
+![Khaled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true&layout=compact)
