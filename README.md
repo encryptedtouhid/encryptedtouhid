@@ -1,5 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome to the Khaled's github extravaganza! </h1>
 
+### Stat's
+![Khaled's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=contribs&rank_icon=github)
+
+### Streak's
+![Khaled's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=dark&hide_border=true) 
+
+### Language's
+![Khaled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true)
+
+
+
 ![C#](https://img.shields.io/badge/CSharp-2A6EBB?style=flat-square&logo=CSharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-f1c232?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,13 +33,5 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-
-
-### Numbers
-
-![Khaled's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=contribs)
-![Khaled's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=dark&hide_border=true) |
-![Khaled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true)
 
 
