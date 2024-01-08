@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome to the Khaled's github extravaganza! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome to the Khaled's github ! </h1>
 
 ### Stat's
 ![Khaled's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=contribs&rank_icon=github)
