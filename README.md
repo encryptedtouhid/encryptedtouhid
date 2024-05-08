@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome to the Khaled's github ! </h1>
 
-![C++](https://img.shields.io/badge/Cpp-2A6EBB?style=flat-square&logo=CSharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-2A6EBB?style=flat-square&logo=CSharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-f1c232?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
