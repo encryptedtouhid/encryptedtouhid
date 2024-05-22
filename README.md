@@ -5,7 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encryptedtouhid" alt="encryptedtouhid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mrbooringguy" target="blank"><img src="https://img.shields.io/twitter/follow/mrbooringguy?logo=twitter&style=for-the-badge" alt="mrbooringguy" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encryptedtouhid&show_icons=true&locale=en&langs_count=12" alt="encryptedtouhid" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=encryptedtouhid&show_icons=true&locale=en" alt="encryptedtouhid" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&" alt="encryptedtouhid" /></p>
+
+
+
+
+
+
 
 - 📝 I regularly write articles on [blog.tuhidulhossain.com](blog.tuhidulhossain.com)
 
@@ -30,8 +41,4 @@
 
 <p><a href="https://www.buymeacoffee.com/Encrypted"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Encrypted" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encryptedtouhid&show_icons=true&locale=en&langs_count=12" alt="encryptedtouhid" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=encryptedtouhid&show_icons=true&locale=en" alt="encryptedtouhid" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&" alt="encryptedtouhid" /></p>
