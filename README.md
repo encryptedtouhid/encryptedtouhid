@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 📝 I regularly write articles on [blog.tuhidulhossain.com](blog.tuhidulhossain.com)
+- 📝 I regularly write articles on [blog.tuhidulhossain.com](https://blog.tuhidulhossain.com)
 
 - 📫 How to reach me **me@tuhidulhossain.com**
 <!-- BLOG-POST-LIST:END -->
