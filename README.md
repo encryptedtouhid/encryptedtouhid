@@ -6,11 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encryptedtouhid" alt="encryptedtouhid" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encryptedtouhid&show_icons=true&locale=en&langs_count=12" alt="encryptedtouhid" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=encryptedtouhid&show_icons=true&locale=en" alt="encryptedtouhid" /></p>
+![encryptedtouhid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=nord&show_icons=true&hide_border=true&langs_count=12)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&" alt="encryptedtouhid" /></p>
+![encryptedtouhid's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
+![encryptedtouhid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=nord&hide_border=true)
 
 
 <br clear="both">
