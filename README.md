@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! 👋, I'm Khaled</h1>
-<h3 align="center">Adept software developer with experience in microservices architecture. Interested in leveraging cloud services for server-less and low latency trading systems.</h3>
+<h3 align="center">Adept software developer with experience in microservices architecture. Interested in leveraging cloud services for server-less and low latency application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encryptedtouhid&label=Profile%20views&color=0e75b6&style=flat" alt="encryptedtouhid" /> </p>
 
