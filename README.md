@@ -8,7 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encryptedtouhid&show_icons=true&locale=en&langs_count=12" alt="encryptedtouhid" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=encryptedtouhid&show_icons=true&locale=en" alt="encryptedtouhid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=encryptedtouhid&show_icons=true&locale=en" alt="encryptedtouhid" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&" alt="encryptedtouhid" /></p>
 
