@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encryptedtouhid&label=Profile%20views&color=0e75b6&style=flat" alt="encryptedtouhid" /> </p>
 
+![encryptedtouhid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=nord&hide_border=true)![encryptedtouhid's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encryptedtouhid&theme=nord" alt="encryptedtouhid" /></a> </p>
 
 
 
 ![encryptedtouhid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=nord&show_icons=true&hide_border=true&langs_count=12)
 
-![encryptedtouhid's Stats](https://github-readme-stats.vercel.app/api?username=encryptedtouhid&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-![encryptedtouhid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=nord&hide_border=true)
+
+
 
 
 <br clear="both">
