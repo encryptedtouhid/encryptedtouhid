@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJtMWJrdmhrZzkxcm5sejc0YzZyc2xhb2FueGtrZGE4eHB2bmhjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.webp" alt="gif">
 </div>
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Khaled 🤓 </h1>
+<h1 align="center"> I'm Khaled 🤓 </h1>
 <h3 align="center">Adept software developer with experience in microservices architecture. Interested in leveraging cloud services for server-less and low latency application.</h3>
 
 ### 🔬 Stats of the Github projects
