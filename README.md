@@ -13,8 +13,7 @@
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=vue-dark&hide_border=true" alt="GitHub Stats"/>
    
-    
-
+  
    <br/><br/>    
 </div>
 
