@@ -35,7 +35,7 @@
 ###  📰 Live Application
 
 - 🧑🏽‍💻 [LeetCode Questions by Company](https://leetcodebrowser.tuhidulhossain.com)
-- 📜 [JDoc - Whiteboard editor (Best For FAANG Interview)](https://jdoc.tuhidulhossain.com)
+- 📜 [JDoc : Whiteboard editor (Best For FAANG Interview)](https://jdoc.tuhidulhossain.com)
 - 📋 [CxCommenter : An automatic Comment Generating Tool For Visual Studio ](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter)
 - 🖥️ [CpuGuard.NET : CPU Usage Control for ASP.NET Core Applications](https://www.nuget.org/packages/CpuGuard.NET)
 - 📝 [My Personal Blog](https://blog.tuhidulhossain.com)
