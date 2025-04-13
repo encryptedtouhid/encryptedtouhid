@@ -35,7 +35,8 @@
 ###  📰 Live Application
 
 - 🧑🏽‍💻 LeetCode Questions by Company on [https://leetcodebrowser.tuhidulhossain.com](https://leetcodebrowser.tuhidulhossain.com)
-- 📜 JDoc : Whiteboard editor (Best For FAANG Interview): [https://jdoc.tuhidulhossain.com](https://jdoc.tuhidulhossain.com)
+- 📜 JDoc - Whiteboard editor (Best For FAANG Interview): [https://jdoc.tuhidulhossain.com](https://jdoc.tuhidulhossain.com)
+- 📋 CxCommenter (An automatic Comment Generating Tool For Visual Studio ): [CXCommenter (Preview) on marketplace](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter)
 <!-- BLOG-POST-LIST:START -->
 - 📝 I regularly write articles on [blog.tuhidulhossain.com](https://blog.tuhidulhossain.com)
 - 📫 How to reach me **me@tuhidulhossain.com**
