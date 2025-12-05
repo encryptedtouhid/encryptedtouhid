@@ -6,12 +6,11 @@
 <h3 align="center">Adept software developer with experience in microservices architecture. Interested in leveraging cloud services for server-less and low latency application.</h3>
 
 ### 🔬 Stats of the Github projects
-<p align="left"> <img src="https://dev.tuhidulhossain.com/api/streak?username=Encryptedtouhid" alt="encryptedtouhid" /> </p>
 
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedtouhid&theme=vue-dark&hide_border=true" alt="GitHub Stats"/>  
+    <img src="https://dev.tuhidulhossain.com/api/streak?username=Encryptedtouhid" alt="GitHub Stats"/>  
    <br/><br/>    
 </div>
 
