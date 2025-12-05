@@ -15,8 +15,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=encryptedtouhid&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="JasonTaylorDev's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=vue-dark&hide_border=true"  alt="JasonTaylorDev GitHub Top Languages" />
+  <img height="180em" src="https://dev.tuhidulhossain.com/api/stats?username=encryptedtouhid" alt="Khaled's GitHub Stats" />
+  <img height="180em" src="https://dev.tuhidulhossain.com/api/top-langs?username=encryptedtouhid"  alt="Khaled GitHub Top Languages" />
 </div>
 
 <a href="https://github.com/jasontaylordev">
