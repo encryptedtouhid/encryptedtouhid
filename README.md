@@ -10,13 +10,13 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Encryptedtouhid&theme=github_dark_dimmed" alt="GitHub Stats"/>  
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Encryptedtouhid&&theme=khaled_theme" alt="GitHub Stats"/>  
    <br/><br/>    
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=encryptedtouhid&theme=github_dark_dimmed" alt="Khaled's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=encryptedtouhid&theme=github_dark_dimmed"  alt="Khaled GitHub Top Languages" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=encryptedtouhid&&theme=khaled_theme" alt="Khaled's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=encryptedtouhid&&theme=khaled_theme"  alt="Khaled GitHub Top Languages" />
 </div>
 
 <a href="https://github.com/jasontaylordev">
