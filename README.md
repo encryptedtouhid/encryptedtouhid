@@ -23,6 +23,7 @@
 
 ###  📰 Live Application
 - 💻 [LogsBucket : Your Logs, Secured & Simplified](https://logsbucket.com) [Coming Soon]
+- 📞 [Zephy Phone : World's Cheapest International Calls](https://zephyphone.com)
 - 💻 [TerMan : The Terminal Organizer for Developers, DevOps & Vibe Coders](https://terman.app) 
 - 📚 [Github Readme Stats](https://github.com/encryptedtouhid/github_readme_stats)
 - 🧑🏽‍💻 [LeebtCode Questions by Company](https://leetcodebrowser.tuhidulhossain.com)
