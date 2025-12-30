@@ -23,7 +23,7 @@
 
 ###  📰 Live Application
 - 💻 [LogsBucket : Your Logs, Secured & Simplified](https://logsbucket.com) [Coming Soon]
-- 💻 [TerMan : The Terminal Organizer for Developers, DevOps & Vibe Coders](https://terman.app) [Coming Soon]
+- 💻 [TerMan : The Terminal Organizer for Developers, DevOps & Vibe Coders](https://terman.app) 
 - 📚 [Github Readme Stats](https://github.com/encryptedtouhid/github_readme_stats)
 - 🧑🏽‍💻 [LeebtCode Questions by Company](https://leetcodebrowser.tuhidulhossain.com)
 - 📜 [JDoc : Whiteboard editor (Best For FAANG Interview)](https://jdoc.tuhidulhossain.com)
