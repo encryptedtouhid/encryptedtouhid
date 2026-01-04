@@ -26,12 +26,11 @@
 - 📞 [Zephy Phone : World's Cheapest International Calls](https://zephyphone.com)
 - 💻 [TerMan : The Terminal Organizer for Developers, DevOps & Vibe Coders](https://terman.app) 
 - 📚 [Github Readme Stats](https://github.com/encryptedtouhid/github_readme_stats)
-- 🧑🏽‍💻 [LeebtCode Questions by Company](https://leetcodebrowser.tuhidulhossain.com)
-- 📜 [JDoc : Whiteboard editor (Best For FAANG Interview)](https://jdoc.tuhidulhossain.com)
 - 📋 [CxCommenter : An automatic Comment Generating Tool For Visual Studio ](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter)
 - 🖥️ [CpuGuard.NET : CPU Usage Control for ASP.NET Core Applications](https://www.nuget.org/packages/CpuGuard.NET)
 - 📝 [My Personal Blog](https://blog.tuhidulhossain.com)
-
+<!--- 🧑🏽‍💻 [LeebtCode Questions by Company](https://leetcodebrowser.tuhidulhossain.com)
+- 📜 [JDoc : Whiteboard editor (Best For FAANG Interview)](https://jdoc.tuhidulhossain.com) -->
 
 ### 🔗 Connect with me through 
 <p align="left">
