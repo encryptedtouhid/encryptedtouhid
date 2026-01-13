@@ -23,11 +23,21 @@
 
 ### 🚀 Featured Products
 
-<a href="https://www.producthunt.com/products/zephy-phone">
-  <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=80&h=80" alt="Zephy Phone" width="64" height="64" />
+<table>
+<tr>
+<td width="80">
+<a href="https://zephyphone.com">
+<img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=80&h=80" alt="Zephy Phone" width="60" />
 </a>
-
-**[Zephy Phone](https://www.producthunt.com/products/zephy-phone)** - World's Cheapest International Calls From Anywhere
+</td>
+<td>
+<h3><a href="https://zephyphone.com">Zephy Phone</a></h3>
+<p>World's Cheapest International Calls From Anywhere</p>
+<a href="https://www.producthunt.com/products/zephy-phone"><img src="https://img.shields.io/badge/Product%20Hunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+<a href="https://zephyphone.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+</td>
+</tr>
+</table>
 
 ###  📰 Live Application
 
