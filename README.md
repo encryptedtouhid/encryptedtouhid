@@ -23,7 +23,11 @@
 
 ### 🚀 Featured Products
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; border: 1px solid #444c56; border-radius: 12px; padding: 20px; max-width: 500px; background: #22272e;"><div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;"><img alt="Zephy Phone" src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&amp;fit=crop&amp;w=80&amp;h=80" style="width: 64px; height: 64px; border-radius: 8px; object-fit: cover; flex-shrink: 0;"><div style="flex: 1 1 0%; min-width: 0px;"><h3 style="margin: 0px; font-size: 18px; font-weight: 600; color: #cdd9e5; line-height: 1.3; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Zephy Phone</h3><p style="margin: 4px 0px 0px; font-size: 14px; color: #768390; line-height: 1.4; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">World's Cheapest International Calls From Anywhere.</p></div></div><a href="https://www.producthunt.com/products/zephy-phone?embed=true&amp;utm_source=embed&amp;utm_medium=post_embed" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 4px; margin-top: 12px; padding: 8px 16px; background: rgb(255, 97, 84); color: rgb(255, 255, 255); text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: 600;">Check it out on Product Hunt →</a></div>
+<a href="https://www.producthunt.com/products/zephy-phone">
+  <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=80&h=80" alt="Zephy Phone" width="64" height="64" />
+</a>
+
+**[Zephy Phone](https://www.producthunt.com/products/zephy-phone)** - World's Cheapest International Calls From Anywhere
 
 ###  📰 Live Application
 
