@@ -21,74 +21,76 @@
 <br clear="both">
 
 
+<div align="center">
+
 ### 🚀 Featured Products
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="33%">
 <a href="https://zephyphone.com">
-<img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=80&h=80" alt="Zephy Phone" width="60" />
+<img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="80" height="80" alt="Zephy Phone" />
 </a>
 <br />
-<b><a href="https://zephyphone.com">Zephy Phone</a></b>
+<strong><a href="https://zephyphone.com">Zephy Phone</a></strong>
 <br />
-<sub>World's Cheapest International Calls From Anywhere</sub>
+<em>World's Cheapest International Calls From Anywhere</em>
 <br /><br />
-<a href="https://www.producthunt.com/products/zephy-phone"><img src="https://img.shields.io/badge/Product%20Hunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
-<a href="https://zephyphone.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+<a href="https://www.producthunt.com/products/zephy-phone"><img src="https://img.shields.io/badge/Product_Hunt-FF6154?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+<a href="https://zephyphone.com"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="33%">
 <a href="https://logsbucket.com">
-<img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" alt="LogsBucket" width="60" />
+<img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" width="80" height="80" alt="LogsBucket" />
 </a>
 <br />
-<b><a href="https://logsbucket.com">LogsBucket</a></b>
+<strong><a href="https://logsbucket.com">LogsBucket</a></strong>
 <br />
-<sub>Your Logs, Secured & Simplified</sub>
+<em>Your Logs, Secured & Simplified</em>
 <br /><br />
-<a href="https://logsbucket.com"><img src="https://img.shields.io/badge/Coming%20Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming Soon" /></a>
+<a href="https://logsbucket.com"><img src="https://img.shields.io/badge/Coming_Soon-FFA500?style=flat-square&logo=rocket&logoColor=white" alt="Coming Soon" /></a>
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="33%">
 <a href="https://terman.app">
-<img src="https://terman.app/favicon.png" alt="TerMan" width="60" />
+<img src="https://terman.app/favicon.png" width="80" height="80" alt="TerMan" />
 </a>
 <br />
-<b><a href="https://terman.app">TerMan</a></b>
+<strong><a href="https://terman.app">TerMan</a></strong>
 <br />
-<sub>The Terminal Organizer for Developers, DevOps & Vibe Coders</sub>
+<em>Terminal Organizer for Developers & DevOps</em>
 <br /><br />
-<a href="https://terman.app"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-</td>
-<td align="center" width="50%">
-<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">
-<img src="https://img.shields.io/badge/📝-5C2D91?style=flat-square&logoColor=white" alt="CxCommenter" width="60" />
-</a>
-<br />
-<b><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">CxCommenter</a></b>
-<br />
-<sub>An Automatic Comment Generating Tool For Visual Studio</sub>
-<br /><br />
-<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter"><img src="https://img.shields.io/badge/VS%20Marketplace-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS Marketplace" /></a>
+<a href="https://terman.app"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<a href="https://www.nuget.org/packages/CpuGuard.NET">
-<img src="https://img.shields.io/badge/🛡️-512BD4?style=flat-square&logoColor=white" alt="CpuGuard" width="60" />
+<td align="center" valign="top" width="33%">
+<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">
+<img src="https://img.icons8.com/fluency/96/visual-studio.png" width="80" height="80" alt="CxCommenter" />
 </a>
 <br />
-<b><a href="https://www.nuget.org/packages/CpuGuard.NET">CpuGuard.NET</a></b>
+<strong><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">CxCommenter</a></strong>
 <br />
-<sub>CPU Usage Control for ASP.NET Core Applications</sub>
+<em>Auto Comment Generator for Visual Studio</em>
 <br /><br />
-<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter"><img src="https://img.shields.io/badge/VS_Marketplace-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="VS Marketplace" /></a>
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="33%">
+<a href="https://www.nuget.org/packages/CpuGuard.NET">
+<img src="https://img.icons8.com/color/96/microsoft.png" width="80" height="80" alt="CpuGuard.NET" />
+</a>
+<br />
+<strong><a href="https://www.nuget.org/packages/CpuGuard.NET">CpuGuard.NET</a></strong>
+<br />
+<em>CPU Usage Control for ASP.NET Core</em>
+<br /><br />
+<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></a>
+</td>
+<td align="center" valign="top" width="33%">
 </td>
 </tr>
 </table>
+
+</div>
 
 ### 🔗 Connect with me through 
 <p align="left">
