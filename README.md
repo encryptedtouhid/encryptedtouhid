@@ -37,18 +37,55 @@
 <a href="https://zephyphone.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
 </td>
 </tr>
+<tr>
+<td width="80">
+<a href="https://logsbucket.com">
+<img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" alt="LogsBucket" width="60" />
+</a>
+</td>
+<td>
+<h3><a href="https://logsbucket.com">LogsBucket</a></h3>
+<p>Your Logs, Secured & Simplified</p>
+<a href="https://logsbucket.com"><img src="https://img.shields.io/badge/Coming%20Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming Soon" /></a>
+</td>
+</tr>
+<tr>
+<td width="80">
+<a href="https://terman.app">
+<img src="https://terman.app/favicon.png" alt="TerMan" width="60" />
+</a>
+</td>
+<td>
+<h3><a href="https://terman.app">TerMan</a></h3>
+<p>The Terminal Organizer for Developers, DevOps & Vibe Coders</p>
+<a href="https://terman.app"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+</td>
+</tr>
+<tr>
+<td width="80">
+<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">
+<img src="https://img.shields.io/badge/📝-5C2D91?style=flat-square&logoColor=white" alt="CxCommenter" width="60" />
+</a>
+</td>
+<td>
+<h3><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">CxCommenter</a></h3>
+<p>An Automatic Comment Generating Tool For Visual Studio</p>
+<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter"><img src="https://img.shields.io/badge/VS%20Marketplace-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS Marketplace" /></a>
+</td>
+</tr>
+<tr>
+<td width="80">
+<a href="https://www.nuget.org/packages/CpuGuard.NET">
+<img src="https://img.shields.io/badge/🛡️-512BD4?style=flat-square&logoColor=white" alt="CpuGuard" width="60" />
+</a>
+</td>
+<td>
+<h3><a href="https://www.nuget.org/packages/CpuGuard.NET">CpuGuard.NET</a></h3>
+<p>CPU Usage Control for ASP.NET Core Applications</p>
+<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+</td>
+</tr>
 </table>
-
-###  📰 Live Application
-
-- 💻 [LogsBucket : Your Logs, Secured & Simplified](https://logsbucket.com) [Coming Soon]
-- 💻 [TerMan : The Terminal Organizer for Developers, DevOps & Vibe Coders](https://terman.app)
-- 📚 [Github Readme Stats](https://github.com/encryptedtouhid/github_readme_stats)
-- 📋 [CxCommenter : An automatic Comment Generating Tool For Visual Studio ](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter)
-- 🖥️ [CpuGuard.NET : CPU Usage Control for ASP.NET Core Applications](https://www.nuget.org/packages/CpuGuard.NET)
-- 📝 [My Personal Blog](https://blog.tuhidulhossain.com)
-<!--- 🧑🏽‍💻 [LeebtCode Questions by Company](https://leetcodebrowser.tuhidulhossain.com)
-- 📜 [JDoc : Whiteboard editor (Best For FAANG Interview)](https://jdoc.tuhidulhossain.com) -->
 
 ### 🔗 Connect with me through 
 <p align="left">
