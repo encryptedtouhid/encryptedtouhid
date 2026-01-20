@@ -99,24 +99,6 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/gui-brew">
-<img src="https://brew.sh/assets/img/homebrew.svg" width="60" height="60" alt="GUI Brew" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></strong>
-<br />
-<em>Native GUI for Homebrew on macOS</em>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/YT2PPT">
-<img src="https://img.icons8.com/color/96/youtube-play.png" width="60" height="60" alt="YT2PPT" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></strong>
-<br />
-<em>YouTube Video to PowerPoint Converter</em>
-</td>
-<td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">
 <img src="https://img.icons8.com/color/96/settings.png" width="60" height="60" alt="DevOps Automation Agent" />
 </a>
@@ -124,17 +106,6 @@
 <strong><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">DevOps Automation Agent</a></strong>
 <br />
 <em>AI-Powered DevOps Pipeline Automation</em>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/github_readme_stats">
-<img src="https://img.icons8.com/color/96/github.png" width="60" height="60" alt="GitHub README Stats" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></strong>
-<br />
-<em>.NET 9 API for GitHub Stats SVG Cards</em>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">
@@ -146,13 +117,13 @@
 <em>ML-Powered MovieLens 10M Analysis</em>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">
-<img src="https://img.icons8.com/color/96/mind-map.png" width="60" height="60" alt="Knowledge Graph" />
+<a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
 </a>
 <br />
-<strong><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">Knowledge Graph Visualization</a></strong>
+<strong><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></strong>
 <br />
-<em>Build Knowledge Graphs from PDFs</em>
+<em>Micro Frontend Architecture with Blazor WASM</em>
 </td>
 </tr>
 <tr>
@@ -166,14 +137,45 @@
 <em>.NET 9 RAG Console App with Local LLM</em>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
+<a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">
+<img src="https://img.icons8.com/color/96/mind-map.png" width="60" height="60" alt="Knowledge Graph" />
 </a>
 <br />
-<strong><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></strong>
+<strong><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">Knowledge Graph Visualization</a></strong>
 <br />
-<em>Micro Frontend Architecture with Blazor WASM</em>
+<em>Build Knowledge Graphs from PDFs</em>
 </td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/encryptedtouhid/YT2PPT">
+<img src="https://img.icons8.com/color/96/youtube-play.png" width="60" height="60" alt="YT2PPT" />
+</a>
+<br />
+<strong><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></strong>
+<br />
+<em>YouTube Video to PowerPoint Converter</em>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/encryptedtouhid/gui-brew">
+<img src="https://brew.sh/assets/img/homebrew.svg" width="60" height="60" alt="GUI Brew" />
+</a>
+<br />
+<strong><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></strong>
+<br />
+<em>Native GUI for Homebrew on macOS</em>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/encryptedtouhid/github_readme_stats">
+<img src="https://img.icons8.com/color/96/github.png" width="60" height="60" alt="GitHub README Stats" />
+</a>
+<br />
+<strong><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></strong>
+<br />
+<em>.NET 9 API for GitHub Stats SVG Cards</em>
+</td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">
 <img src="https://img.icons8.com/color/96/fingerprint.png" width="60" height="60" alt="Singpass Integration" />
@@ -182,17 +184,6 @@
 <strong><a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">Singpass Integration</a></strong>
 <br />
 <em>.NET Core Singapore Singpass Auth</em>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/MeetingScriber">
-<img src="https://img.icons8.com/color/96/microphone.png" width="60" height="60" alt="MeetingScriber" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/MeetingScriber">MeetingScriber</a></strong>
-<br />
-<em>Real-time Speech-to-Text with Whisper</em>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">
