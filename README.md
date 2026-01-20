@@ -195,13 +195,6 @@
 <em>Self-hosted n8n Automation Platform</em>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/JDoc">
-<img src="https://img.icons8.com/color/96/google-docs.png" width="60" height="60" alt="JDoc" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/JDoc">JDoc</a></strong>
-<br />
-<em>Google Docs-like Editor with Code Highlighting</em>
 </td>
 </tr>
 </table>
