@@ -92,12 +92,6 @@
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
 <div align="center">
 
 ### 🛠️ Side Projects
@@ -173,7 +167,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">
-<img src="https://img.icons8.com/color/96/blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
 </a>
 <br />
 <strong><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></strong>
@@ -222,12 +216,6 @@
 </table>
 
 </div>
-
-<br/>
-
----
-
-<br/>
 
 ### 🔗 Connect with me through 
 <p align="left">
