@@ -3,9 +3,9 @@
 
   # Khaled Md Tuhidul Hossain
 
-  **Software Engineer | Microservices Architect | Cloud Enthusiast**
+  **Software Engineer | Microservices & Cloud Architect | AI/ML Enthusiast**
 
-  Building scalable, low-latency applications with cloud-native technologies
+  Specializing in Gen AI, LLM & RAG implementations with expertise in MLOps and DevOps
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledtuhidul/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrbooringguy)
