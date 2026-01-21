@@ -92,123 +92,126 @@
 
 </div>
 
-<div align="center">
+---
 
-### 🛠️ Side Projects
+### Side Projects
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/FinLens">
-<img src="https://img.icons8.com/color/96/money-bag.png" width="60" height="60" alt="FinLens" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></strong>
-<br />
-<em>AI-Driven Intelligent Expense Management</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></h3>
+<p>AI-driven expense management platform with ML-powered transaction categorization and anomaly detection</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 </td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">
-<img src="https://img.icons8.com/color/96/settings.png" width="60" height="60" alt="DevOps Automation Agent" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">DevOps Automation Agent</a></strong>
-<br />
-<em>AI-Powered DevOps Pipeline Automation</em>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">
-<img src="https://img.icons8.com/color/96/movie-projector.png" width="60" height="60" alt="Movie Data Analysis" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">Movie Data Analysis</a></strong>
-<br />
-<em>ML-Powered MovieLens 10M Analysis</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">DevOps Automation Agent</a></h3>
+<p>AI-powered agent for automating DevOps pipelines, infrastructure provisioning, and deployment workflows</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/dotnet_console_rag_ollama">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60" height="60" alt="RAG Ollama" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/dotnet_console_rag_ollama">RAG with Ollama</a></strong>
-<br />
-<em>.NET 9 RAG Console App with Local LLM</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">Movie Data Analysis</a></h3>
+<p>ML-powered analytics platform for MovieLens 10M dataset with recommendation engine and insights</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
 </td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">
-<img src="https://img.icons8.com/color/96/mind-map.png" width="60" height="60" alt="Knowledge Graph" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">Knowledge Graph Visualization</a></strong>
-<br />
-<em>Build Knowledge Graphs from PDFs</em>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></strong>
-<br />
-<em>Micro Frontend Architecture with Blazor WASM</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/dotnet_console_rag_ollama">RAG with Ollama</a></h3>
+<p>.NET 9 console application implementing Retrieval-Augmented Generation with local LLM support</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+</p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/YT2PPT">
-<img src="https://img.icons8.com/color/96/youtube-play.png" width="60" height="60" alt="YT2PPT" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></strong>
-<br />
-<em>YouTube Video to PowerPoint Converter</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">Knowledge Graph Visualization</a></h3>
+<p>Extract and visualize knowledge graphs from PDF documents using NLP and graph algorithms</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
+</p>
 </td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/gui-brew">
-<img src="https://brew.sh/assets/img/homebrew.svg" width="60" height="60" alt="GUI Brew" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></strong>
-<br />
-<em>Native GUI for Homebrew on macOS</em>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/github_readme_stats">
-<img src="https://img.icons8.com/color/96/github.png" width="60" height="60" alt="GitHub README Stats" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></strong>
-<br />
-<em>.NET 9 API for GitHub Stats SVG Cards</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></h3>
+<p>Micro frontend architecture implementation using Blazor WebAssembly for modular web apps</p>
+<p>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+</p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">
-<img src="https://img.icons8.com/color/96/fingerprint.png" width="60" height="60" alt="Singpass Integration" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">Singpass Integration</a></strong>
-<br />
-<em>.NET Core Singapore Singpass Auth</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></h3>
+<p>Convert YouTube videos into PowerPoint presentations with AI-generated slides and summaries</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+</p>
 </td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">
-<img src="https://img.icons8.com/color/96/docker.png" width="60" height="60" alt="n8n Docker" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">n8n Docker Zero Cost</a></strong>
-<br />
-<em>Self-hosted n8n Automation Platform</em>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></h3>
+<p>Native macOS GUI application for managing Homebrew packages with an intuitive interface</p>
+<p>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew" />
+</p>
 </td>
-<td align="center" valign="top" width="33%">
+</tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></h3>
+<p>.NET 9 API service generating dynamic SVG cards for GitHub profile statistics</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" />
+<img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" />
+<img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" />
+</p>
+</td>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">Singpass Integration</a></h3>
+<p>.NET Core library for Singapore Singpass authentication and MyInfo API integration</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+<img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">n8n Docker Zero Cost</a></h3>
+<p>Self-hosted n8n workflow automation platform with Docker and zero-cost deployment setup</p>
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
-
-</div>
 
 ### 🔗 Connect with me through 
 <p align="left">
