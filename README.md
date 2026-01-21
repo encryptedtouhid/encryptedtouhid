@@ -34,6 +34,7 @@
 <table>
 <tr>
 <td width="50%">
+<a href="https://zephyphone.com"><img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="50" height="50" alt="Zephy Phone" /></a>
 <h3><a href="https://zephyphone.com">Zephy Phone</a></h3>
 <p>World's cheapest international calling solution accessible from anywhere in the world</p>
 <p>
@@ -42,6 +43,7 @@
 </p>
 </td>
 <td width="50%">
+<a href="https://logsbucket.com"><img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" width="50" height="50" alt="LogsBucket" /></a>
 <h3><a href="https://logsbucket.com">LogsBucket</a></h3>
 <p>Secure and simplified log management platform for developers and teams</p>
 <p>
@@ -51,6 +53,7 @@
 </tr>
 <tr>
 <td width="50%">
+<a href="https://terman.app"><img src="https://terman.app/favicon.png" width="50" height="50" alt="TerMan" /></a>
 <h3><a href="https://terman.app">TerMan</a></h3>
 <p>Terminal organizer built for developers and DevOps engineers to streamline workflows</p>
 <p>
@@ -58,6 +61,7 @@
 </p>
 </td>
 <td width="50%">
+<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter"><img src="https://img.icons8.com/fluency/96/visual-studio.png" width="50" height="50" alt="CxCommenter" /></a>
 <h3><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">CxCommenter</a></h3>
 <p>Visual Studio extension for automatic code comment generation</p>
 <p>
@@ -67,6 +71,7 @@
 </tr>
 <tr>
 <td width="50%">
+<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://img.icons8.com/color/96/cpu.png" width="50" height="50" alt="CpuGuard.NET" /></a>
 <h3><a href="https://www.nuget.org/packages/CpuGuard.NET">CpuGuard.NET</a></h3>
 <p>CPU usage control and throttling library for ASP.NET Core applications</p>
 <p>
@@ -85,6 +90,7 @@
 <table>
 <tr>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/money-bag.png" width="40" height="40" alt="FinLens" />
 <h3><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></h3>
 <p>AI-driven expense management platform with ML-powered transaction categorization and anomaly detection</p>
 <p>
@@ -95,6 +101,7 @@
 </p>
 </td>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/robot-2.png" width="40" height="40" alt="DevOps Automation Agent" />
 <h3><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">DevOps Automation Agent</a></h3>
 <p>AI-powered agent for automating DevOps pipelines, infrastructure provisioning, and deployment workflows</p>
 <p>
@@ -106,6 +113,7 @@
 </tr>
 <tr>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/movie-projector.png" width="40" height="40" alt="Movie Data Analysis" />
 <h3><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">Movie Data Analysis</a></h3>
 <p>ML-powered analytics platform for MovieLens 10M dataset with recommendation engine and insights</p>
 <p>
@@ -115,6 +123,7 @@
 </p>
 </td>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" height="40" alt="RAG with Ollama" />
 <h3><a href="https://github.com/encryptedtouhid/dotnet_console_rag_ollama">RAG with Ollama</a></h3>
 <p>.NET 9 console application implementing Retrieval-Augmented Generation with local LLM support</p>
 <p>
@@ -126,6 +135,7 @@
 </tr>
 <tr>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/mind-map.png" width="40" height="40" alt="Knowledge Graph" />
 <h3><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">Knowledge Graph Visualization</a></h3>
 <p>Extract and visualize knowledge graphs from PDF documents using NLP and graph algorithms</p>
 <p>
@@ -135,6 +145,7 @@
 </p>
 </td>
 <td width="50%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" height="40" alt="Blazor Micro Frontends" />
 <h3><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></h3>
 <p>Micro frontend architecture implementation using Blazor WebAssembly for modular web apps</p>
 <p>
@@ -146,6 +157,7 @@
 </tr>
 <tr>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YT2PPT" />
 <h3><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></h3>
 <p>Convert YouTube videos into PowerPoint presentations with AI-generated slides and summaries</p>
 <p>
@@ -155,6 +167,7 @@
 </p>
 </td>
 <td width="50%">
+<img src="https://brew.sh/assets/img/homebrew.svg" width="40" height="40" alt="GUI Brew" />
 <h3><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></h3>
 <p>Native macOS GUI application for managing Homebrew packages with an intuitive interface</p>
 <p>
@@ -166,6 +179,7 @@
 </tr>
 <tr>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/github.png" width="40" height="40" alt="GitHub README Stats" />
 <h3><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></h3>
 <p>.NET 9 API service generating dynamic SVG cards for GitHub profile statistics</p>
 <p>
@@ -175,6 +189,7 @@
 </p>
 </td>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/fingerprint.png" width="40" height="40" alt="Singpass Integration" />
 <h3><a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">Singpass Integration</a></h3>
 <p>.NET Core library for Singapore Singpass authentication and MyInfo API integration</p>
 <p>
@@ -186,6 +201,7 @@
 </tr>
 <tr>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/docker.png" width="40" height="40" alt="n8n Docker" />
 <h3><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">n8n Docker Zero Cost</a></h3>
 <p>Self-hosted n8n workflow automation platform with Docker and zero-cost deployment setup</p>
 <p>
