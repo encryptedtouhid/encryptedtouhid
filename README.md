@@ -99,6 +99,15 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
+<a href="https://github.com/encryptedtouhid/FinLens">
+<img src="https://img.icons8.com/color/96/money-bag.png" width="60" height="60" alt="FinLens" />
+</a>
+<br />
+<strong><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></strong>
+<br />
+<em>AI-Driven Intelligent Expense Management</em>
+</td>
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">
 <img src="https://img.icons8.com/color/96/settings.png" width="60" height="60" alt="DevOps Automation Agent" />
 </a>
@@ -115,15 +124,6 @@
 <strong><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">Movie Data Analysis</a></strong>
 <br />
 <em>ML-Powered MovieLens 10M Analysis</em>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
-</a>
-<br />
-<strong><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></strong>
-<br />
-<em>Micro Frontend Architecture with Blazor WASM</em>
 </td>
 </tr>
 <tr>
@@ -146,6 +146,17 @@
 <em>Build Knowledge Graphs from PDFs</em>
 </td>
 <td align="center" valign="top" width="33%">
+<a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="60" height="60" alt="Blazor Micro Frontends" />
+</a>
+<br />
+<strong><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></strong>
+<br />
+<em>Micro Frontend Architecture with Blazor WASM</em>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/YT2PPT">
 <img src="https://img.icons8.com/color/96/youtube-play.png" width="60" height="60" alt="YT2PPT" />
 </a>
@@ -154,8 +165,6 @@
 <br />
 <em>YouTube Video to PowerPoint Converter</em>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/encryptedtouhid/gui-brew">
 <img src="https://brew.sh/assets/img/homebrew.svg" width="60" height="60" alt="GUI Brew" />
