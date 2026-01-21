@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td width="50%">
-<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://img.icons8.com/color/96/cpu.png" width="50" height="50" alt="CpuGuard.NET" /></a>
+<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50" alt="CpuGuard.NET" /></a>
 <h3><a href="https://www.nuget.org/packages/CpuGuard.NET">CpuGuard.NET</a></h3>
 <p>CPU usage control and throttling library for ASP.NET Core applications</p>
 <p>
