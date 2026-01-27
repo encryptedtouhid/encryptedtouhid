@@ -171,13 +171,13 @@
 
 ### Featured Products
 
-| | Product | Description | |
-|:-:|:--|:--|:-:|
-| <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="24" /> | [**Zephy Phone**](https://zephyphone.com) | World's cheapest international calling solution | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://zephyphone.com) [![PH](https://img.shields.io/badge/PH-FF6154?style=flat-square)](https://www.producthunt.com/products/zephy-phone) |
-| <img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" width="24" /> | [**LogsBucket**](https://logsbucket.com) | Secure log management platform for developers | [![Soon](https://img.shields.io/badge/Soon-FFA500?style=flat-square)](https://logsbucket.com) |
-| <img src="https://terman.app/favicon.png" width="24" /> | [**TerMan**](https://terman.app) | Terminal organizer for developers and DevOps | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://terman.app) |
-| <img src="https://img.icons8.com/fluency/96/visual-studio.png" width="24" /> | [**CxCommenter**](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) | VS extension for automatic code comments | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) [![VS](https://img.shields.io/badge/VS-5C2D91?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="24" /> | [**CpuGuard.NET**](https://www.nuget.org/packages/CpuGuard.NET) | CPU throttling library for ASP.NET Core | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) [![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) |
+| | Product | Description | Status | Site |
+|:-:|:--|:--|:-:|:-:|
+| <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="24" /> | **Zephy Phone** | World's cheapest international calling solution | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://zephyphone.com) [![PH](https://img.shields.io/badge/PH-FF6154?style=flat-square)](https://www.producthunt.com/products/zephy-phone) | [LINK](https://zephyphone.com) |
+| <img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" width="24" /> | **LogsBucket** | Secure log management platform for developers | [![Soon](https://img.shields.io/badge/Soon-FFA500?style=flat-square)](https://logsbucket.com) | [LINK](https://logsbucket.com) |
+| <img src="https://terman.app/favicon.png" width="24" /> | **TerMan** | Terminal organizer for developers and DevOps | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://terman.app) | [LINK](https://terman.app) |
+| <img src="https://img.icons8.com/fluency/96/visual-studio.png" width="24" /> | **CxCommenter** | VS extension for automatic code comments | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) [![VS](https://img.shields.io/badge/VS-5C2D91?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) | [LINK](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="24" /> | **CpuGuard.NET** | CPU throttling library for ASP.NET Core | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) [![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) | [LINK](https://www.nuget.org/packages/CpuGuard.NET) |
 
 ---
 
