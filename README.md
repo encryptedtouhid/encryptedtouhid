@@ -90,14 +90,13 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://img.icons8.com/color/48/money-bag.png" width="40" height="40" alt="FinLens" />
-<h3><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></h3>
-<p>AI-driven expense management platform with ML-powered transaction categorization and anomaly detection</p>
+<img src="https://img.icons8.com/color/48/cyber-security.png" width="40" height="40" alt="Threat Intel Graph RAG" />
+<h3><a href="https://github.com/encryptedtouhid/threat-intel-graph-rag">Threat Intel Graph RAG</a></h3>
+<p>Graph RAG application for cybersecurity threat intelligence analysis and knowledge retrieval</p>
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 </td>
 <td width="50%">
@@ -145,6 +144,19 @@
 </p>
 </td>
 <td width="50%">
+<img src="https://img.icons8.com/color/48/money-bag.png" width="40" height="40" alt="FinLens" />
+<h3><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></h3>
+<p>AI-driven expense management platform with ML-powered transaction categorization and anomaly detection</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" height="40" alt="Blazor Micro Frontends" />
 <h3><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></h3>
 <p>Micro frontend architecture implementation using Blazor WebAssembly for modular web apps</p>
@@ -154,7 +166,6 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 </p>
 </td>
-</tr>
 <tr>
 <td width="50%">
 <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YT2PPT" />
