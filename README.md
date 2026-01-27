@@ -29,62 +29,6 @@
 
 ---
 
-### Featured Products
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://zephyphone.com"><img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="50" height="50" alt="Zephy Phone" /></a>
-<h3><a href="https://zephyphone.com">Zephy Phone</a></h3>
-<p>World's cheapest international calling solution accessible from anywhere in the world</p>
-<p>
-<a href="https://www.producthunt.com/products/zephy-phone"><img src="https://img.shields.io/badge/Product_Hunt-FF6154?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
-<a href="https://zephyphone.com"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-</p>
-</td>
-<td width="50%">
-<a href="https://logsbucket.com"><img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" width="50" height="50" alt="LogsBucket" /></a>
-<h3><a href="https://logsbucket.com">LogsBucket</a></h3>
-<p>Secure and simplified log management platform for developers and teams</p>
-<p>
-<a href="https://logsbucket.com"><img src="https://img.shields.io/badge/Coming_Soon-FFA500?style=flat-square&logo=rocket&logoColor=white" alt="Coming Soon" /></a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://terman.app"><img src="https://terman.app/favicon.png" width="50" height="50" alt="TerMan" /></a>
-<h3><a href="https://terman.app">TerMan</a></h3>
-<p>Terminal organizer built for developers and DevOps engineers to streamline workflows</p>
-<p>
-<a href="https://terman.app"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-</p>
-</td>
-<td width="50%">
-<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter"><img src="https://img.icons8.com/fluency/96/visual-studio.png" width="50" height="50" alt="CxCommenter" /></a>
-<h3><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter">CxCommenter</a></h3>
-<p>Visual Studio extension for automatic code comment generation</p>
-<p>
-<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter"><img src="https://img.shields.io/badge/VS_Marketplace-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="VS Marketplace" /></a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50" alt="CpuGuard.NET" /></a>
-<h3><a href="https://www.nuget.org/packages/CpuGuard.NET">CpuGuard.NET</a></h3>
-<p>CPU usage control and throttling library for ASP.NET Core applications</p>
-<p>
-<a href="https://www.nuget.org/packages/CpuGuard.NET"><img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></a>
-</p>
-</td>
-<td width="50%">
-</td>
-</tr>
-</table>
-
----
-
 ### Side Projects
 
 <table>
@@ -222,6 +166,18 @@
 </td>
 </tr>
 </table>
+
+---
+
+### Featured Products
+
+| | Product | Description | |
+|:-:|:--|:--|:-:|
+| <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="24" /> | [**Zephy Phone**](https://zephyphone.com) | World's cheapest international calling solution | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://zephyphone.com) [![PH](https://img.shields.io/badge/PH-FF6154?style=flat-square)](https://www.producthunt.com/products/zephy-phone) |
+| <img src="https://logsbucket.com/assets/logo-main-PyrgVjC8.png" width="24" /> | [**LogsBucket**](https://logsbucket.com) | Secure log management platform for developers | [![Soon](https://img.shields.io/badge/Soon-FFA500?style=flat-square)](https://logsbucket.com) |
+| <img src="https://terman.app/favicon.png" width="24" /> | [**TerMan**](https://terman.app) | Terminal organizer for developers and DevOps | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://terman.app) |
+| <img src="https://img.icons8.com/fluency/96/visual-studio.png" width="24" /> | [**CxCommenter**](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) | VS extension for automatic code comments | [![VS](https://img.shields.io/badge/VS-5C2D91?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="24" /> | [**CpuGuard.NET**](https://www.nuget.org/packages/CpuGuard.NET) | CPU throttling library for ASP.NET Core | [![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) |
 
 ---
 
