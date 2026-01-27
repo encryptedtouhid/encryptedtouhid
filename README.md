@@ -166,7 +166,6 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 </p>
 </td>
-<tr>
 <td width="50%">
 <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YT2PPT" />
 <h3><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></h3>
@@ -177,6 +176,8 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
 </p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <img src="https://brew.sh/assets/img/homebrew.svg" width="40" height="40" alt="GUI Brew" />
 <h3><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></h3>
@@ -187,8 +188,6 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 </p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <img src="https://img.icons8.com/color/48/github.png" width="40" height="40" alt="GitHub README Stats" />
 <h3><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></h3>
@@ -199,6 +198,8 @@
 <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" />
 </p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <img src="https://img.icons8.com/color/48/fingerprint.png" width="40" height="40" alt="Singpass Integration" />
 <h3><a href="https://github.com/encryptedtouhid/dotnetcore-singpass-integration">Singpass Integration</a></h3>
@@ -209,8 +210,6 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 </p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <img src="https://img.icons8.com/color/48/docker.png" width="40" height="40" alt="n8n Docker" />
 <h3><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">n8n Docker Zero Cost</a></h3>
@@ -220,8 +219,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
