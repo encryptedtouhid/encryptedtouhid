@@ -33,72 +33,85 @@
 
 <table width="100%">
   <colgroup>
-    <col width="25%">
+    <col width="20%">
     <col width="45%">
-    <col width="30%">
+    <col width="25%">
+    <col width="10%">
   </colgroup>
   <thead>
     <tr>
       <th align="left">Product</th>
       <th align="left">Description</th>
       <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/threat-intel-graph-rag">Threat Intel Graph RAG</a></td>
+      <td>Threat Intel Graph RAG</td>
       <td>Graph RAG application for cybersecurity threat intelligence analysis and knowledge retrieval</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
+      <td><a href="https://github.com/encryptedtouhid/threat-intel-graph-rag">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">DevOps Automation Agent</a></td>
+      <td>DevOps Automation Agent</td>
       <td>AI-powered agent for automating DevOps pipelines, infrastructure provisioning, and deployment workflows</td>
       <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
+      <td><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">Movie Data Analysis</a></td>
+      <td>Movie Data Analysis</td>
       <td>ML-powered analytics platform for MovieLens 10M dataset with recommendation engine and insights</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></td>
+      <td><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/dotnet_console_rag_ollama">RAG with Ollama</a></td>
+      <td>RAG with Ollama</td>
       <td>.NET 9 console application implementing Retrieval-Augmented Generation with local LLM support</td>
       <td><img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></td>
+      <td><a href="https://github.com/encryptedtouhid/dotnet_console_rag_ollama">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">Knowledge Graph Visualization</a></td>
+      <td>Knowledge Graph Visualization</td>
       <td>Extract and visualize knowledge graphs from PDF documents using NLP and graph algorithms</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" /></td>
+      <td><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/FinLens">FinLens</a></td>
+      <td>FinLens</td>
       <td>AI-driven expense management platform with ML-powered transaction categorization and anomaly detection</td>
       <td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></td>
+      <td><a href="https://github.com/encryptedtouhid/FinLens">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">Blazor Micro Frontends</a></td>
+      <td>Blazor Micro Frontends</td>
       <td>Micro frontend architecture implementation using Blazor WebAssembly for modular web apps</td>
       <td><img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></td>
+      <td><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/YT2PPT">YT2PPT</a></td>
+      <td>YT2PPT</td>
       <td>Convert YouTube videos into PowerPoint presentations with AI-generated slides and summaries</td>
       <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></td>
+      <td><a href="https://github.com/encryptedtouhid/YT2PPT">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/gui-brew">GUI Brew</a></td>
+      <td>GUI Brew</td>
       <td>Native macOS GUI application for managing Homebrew packages with an intuitive interface</td>
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td>
+      <td><a href="https://github.com/encryptedtouhid/gui-brew">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/github_readme_stats">GitHub README Stats</a></td>
+      <td>GitHub README Stats</td>
       <td>.NET 9 API service generating dynamic SVG cards for GitHub profile statistics</td>
       <td><img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" /> <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" /> <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" /></td>
+      <td><a href="https://github.com/encryptedtouhid/github_readme_stats">LINK</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">n8n Docker Zero Cost</a></td>
+      <td>n8n Docker Zero Cost</td>
       <td>Self-hosted n8n workflow automation platform with Docker and zero-cost deployment setup</td>
       <td><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
+      <td><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost">LINK</a></td>
     </tr>
   </tbody>
 </table>
