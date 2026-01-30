@@ -50,7 +50,7 @@
     <tr>
       <td>Zoho Mail RAG</td>
       <td>RAG system for searching and querying your Zoho Mail inbox using natural language</td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white" alt="Zoho" /></td>
+      <td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></td>
       <td><a href="https://github.com/encryptedtouhid/zoho-mail-rag" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
     <tr>
