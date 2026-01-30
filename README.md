@@ -48,6 +48,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>Zoho Mail RAG</td>
+      <td>RAG system for searching and querying your Zoho Mail inbox using natural language</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white" alt="Zoho" /></td>
+      <td><a href="https://github.com/encryptedtouhid/zoho-mail-rag" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
       <td>Threat Intel Graph RAG</td>
       <td>Graph RAG application for cybersecurity threat intelligence analysis and knowledge retrieval</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
