@@ -31,12 +31,47 @@
 
 ### Featured Products
 
-| | Product | Description | Status | Site |
-|:-:|:--|:--|:-:|:-:|
-| <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="24" /> | **Zephy Phone** | World's cheapest international calling solution | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://zephyphone.com) | [LINK](https://zephyphone.com) |
-| <img src="https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.1/icon" width="24" /> | **mssql-rest-api** | Auto-generate REST APIs from MSSQL databases | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.npmjs.com/package/mssql-rest-api) | [LINK](https://www.npmjs.com/package/mssql-rest-api) |
-| <img src="https://img.icons8.com/fluency/96/visual-studio.png" width="24" /> | **CxCommenter** | VS extension for automatic code comments | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) | [LINK](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="24" /> | **CpuGuard.NET** | CPU throttling library for ASP.NET Core | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) | [LINK](https://www.nuget.org/packages/CpuGuard.NET) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="5%"></th>
+      <th align="left" width="15%">Product</th>
+      <th align="left" width="60%">Description</th>
+      <th align="center" width="10%">Status</th>
+      <th align="center" width="10%">Site</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="24" /></td>
+      <td><strong>Zephy Phone</strong></td>
+      <td>World's cheapest international calling solution</td>
+      <td align="center"><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square" alt="Live" /></a></td>
+      <td align="center"><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.1/icon" width="24" /></td>
+      <td><strong>mssql-rest-api</strong></td>
+      <td>Auto-generate REST APIs from MSSQL databases</td>
+      <td align="center"><a href="https://www.npmjs.com/package/mssql-rest-api" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square" alt="Live" /></a></td>
+      <td align="center"><a href="https://www.npmjs.com/package/mssql-rest-api" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.icons8.com/fluency/96/visual-studio.png" width="24" /></td>
+      <td><strong>CxCommenter</strong></td>
+      <td>VS extension for automatic code comments</td>
+      <td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square" alt="Live" /></a></td>
+      <td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="24" /></td>
+      <td><strong>CpuGuard.NET</strong></td>
+      <td>CPU throttling library for ASP.NET Core</td>
+      <td align="center"><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square" alt="Live" /></a></td>
+      <td align="center"><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
