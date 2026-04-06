@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="120" fill="none">
+  <rect x="1" y="1" width="378" height="118" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="20" y="38" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e6edf3">CxCommenter</text>
+  <rect x="148" y="24" width="42" height="18" rx="9" fill="#00C853"/>
+  <text x="155" y="37" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#fff">Live</text>
+  <text x="20" y="65" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">VS extension for automatic</text>
+  <text x="20" y="82" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">code comments</text>
+  <text x="20" y="106" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#5C2D91">VS Marketplace</text>
+</svg>
