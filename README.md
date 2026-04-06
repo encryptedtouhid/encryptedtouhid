@@ -34,7 +34,7 @@
 <div align="center">
 
 <a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer"><img src="cards/zephy-phone.svg" alt="Zephy Phone" /></a>&nbsp;&nbsp;
-<a href="https://www.npmjs.com/package/mssql-rest-api" target="_blank" rel="noopener noreferrer"><img src="cards/mssql-rest-api.svg" alt="mssql-rest-api" /></a>
+<a href="https://www.npmjs.com/package/restmssql" target="_blank" rel="noopener noreferrer"><img src="cards/mssql-rest-api.svg" alt="RestMSSQL" /></a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer"><img src="cards/cxcommenter.svg" alt="CxCommenter" /></a>&nbsp;&nbsp;
 <a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer"><img src="cards/cpuguard-net.svg" alt="CpuGuard.NET" /></a>
