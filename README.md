@@ -39,6 +39,8 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer"><img src="cards/cxcommenter.svg" alt="CxCommenter" /></a>&nbsp;&nbsp;
 <a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer"><img src="cards/cpuguard-net.svg" alt="CpuGuard.NET" /></a>
 
+<a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer"><img src="cards/gui-brew.svg" alt="GUI Brew" /></a>
+
 </div>
 
 ---
