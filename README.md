@@ -31,56 +31,10 @@
 
 ### Featured Products
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="left">Product</th>
-      <th width="50%" align="left">Product</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="36" align="left" />
-        </a>
-        <strong>Zephy Phone</strong><br/>
-        <sub>World's cheapest international calling solution</sub><br/><br/>
-        <a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" alt="Live" /></a>
-        <a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit-Site-blue?style=flat-square" alt="Visit" /></a>
-      </td>
-      <td valign="top">
-        <a href="https://www.npmjs.com/package/mssql-rest-api" target="_blank" rel="noopener noreferrer">
-          <img src="https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.1/icon" width="36" align="left" />
-        </a>
-        <strong>mssql-rest-api</strong><br/>
-        <sub>Auto-generate REST APIs from MSSQL databases</sub><br/><br/>
-        <a href="https://www.npmjs.com/package/mssql-rest-api" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" alt="Live" /></a>
-        <a href="https://github.com/encryptedtouhid/mssql-rest-api" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.icons8.com/fluency/96/visual-studio.png" width="36" align="left" />
-        </a>
-        <strong>CxCommenter</strong><br/>
-        <sub>VS extension for automatic code comments</sub><br/><br/>
-        <a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" alt="Live" /></a>
-        <a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit-Marketplace-blue?style=flat-square" alt="Marketplace" /></a>
-      </td>
-      <td valign="top">
-        <a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" align="left" />
-        </a>
-        <strong>CpuGuard.NET</strong><br/>
-        <sub>CPU throttling library for ASP.NET Core</sub><br/><br/>
-        <a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" alt="Live" /></a>
-        <a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit-NuGet-blue?style=flat-square&logo=nuget" alt="NuGet" /></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| | Product | Description | Status | | Product | Description | Status |
+|:-:|:--|:--|:-:|:-:|:--|:--|:-:|
+| <img src="https://ph-files.imgix.net/d1739751-9084-4507-a510-5a7640d05bb8.png?auto=format&fit=crop&w=100&h=100" width="24" /> | **Zephy Phone** | World's cheapest international calling solution | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://zephyphone.com) | <img src="https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.1/icon" width="24" /> | **mssql-rest-api** | Auto-generate REST APIs from MSSQL databases | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.npmjs.com/package/mssql-rest-api) |
+| <img src="https://img.icons8.com/fluency/96/visual-studio.png" width="24" /> | **CxCommenter** | VS extension for automatic code comments | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter) | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="24" /> | **CpuGuard.NET** | CPU throttling library for ASP.NET Core | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.nuget.org/packages/CpuGuard.NET) |
 
 ---
 
