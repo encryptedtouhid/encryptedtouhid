@@ -29,23 +29,7 @@
 
 ---
 
-### Featured Products
-
-<div align="center">
-
-<a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer"><img src="cards/zephy-phone.svg" alt="Zephy Phone" /></a>&nbsp;&nbsp;
-<a href="https://www.npmjs.com/package/restmssql" target="_blank" rel="noopener noreferrer"><img src="cards/mssql-rest-api.svg" alt="RestMSSQL" /></a>
-
-<a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer"><img src="cards/cxcommenter.svg" alt="CxCommenter" /></a>&nbsp;&nbsp;
-<a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer"><img src="cards/cpuguard-net.svg" alt="CpuGuard.NET" /></a>
-
-<a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer"><img src="cards/gui-brew.svg" alt="GUI Brew" /></a>
-
-</div>
-
----
-
-### Side Projects
+### Notable Projects
 
 <table width="100%">
   <colgroup>
@@ -63,6 +47,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>VaultBot</td>
+      <td>Security-first autonomous AI agent that replaces OpenClaw (formerly Clawdbot/Moltbot)</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></td>
+      <td><a href="https://github.com/encryptedtouhid/project_zen_bot" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
     <tr>
       <td>Zoho Mail RAG</td>
       <td>RAG system for searching and querying your Zoho Mail inbox using natural language</td>
@@ -134,6 +124,59 @@
       <td>Self-hosted n8n workflow automation platform with Docker and zero-cost deployment setup</td>
       <td><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
       <td><a href="https://github.com/encryptedtouhid/n8n-docker-mcp-zero-cost" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Featured Products
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zephy Phone</td>
+      <td>World's cheapest international calling solution</td>
+      <td><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logoColor=white" alt="Live" /></td>
+      <td><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td>RestMSSQL</td>
+      <td>Zero-code REST API server for MSSQL database</td>
+      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /></td>
+      <td><a href="https://www.npmjs.com/package/restmssql" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td>CxCommenter</td>
+      <td>VS Code extension for automatic code comments</td>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td>CpuGuard.NET</td>
+      <td>CPU throttling library for ASP.NET Core</td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
+      <td><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td>GUI Brew</td>
+      <td>Native macOS GUI for managing Homebrew packages</td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td>
+      <td><a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
   </tbody>
 </table>
