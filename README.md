@@ -19,12 +19,12 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Encryptedtouhid&&theme=github_dark_dimmed" alt="GitHub Streak" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=encryptedtouhid&theme=github_dark_dimmed" alt="Streak" />
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=encryptedtouhid&&theme=github_dark_dimmed" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=encryptedtouhid&&theme=github_dark_dimmed" alt="Top Languages" />
+ <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=encryptedtouhid&theme=github_dark_dimmed&show_icons=true" alt="Stats" />
+<img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=encryptedtouhid&theme=github_dark_dimmed" alt="Top Languages" />
 </div>
 
 ---
