@@ -49,7 +49,7 @@
   <tbody>
     <tr>
       <td>VaultBot</td>
-      <td>Security-first, Your Own Personal Autonomous AI assistant.</td>
+      <td>Security-first, Your Personal Autonomous AI assistant.</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></td>
       <td><a href="https://github.com/encryptedtouhid/project_zen_bot" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
