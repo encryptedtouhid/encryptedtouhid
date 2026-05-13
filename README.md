@@ -178,6 +178,12 @@
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td>
       <td><a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
+    <tr>
+      <td>NameGuard.ML</td>
+      <td>ML-powered library to detect real vs fake/junk names, offline and microsecond-fast</td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ML.NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
+      <td><a href="https://github.com/encryptedtouhid/NameGuard.ML" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
   </tbody>
 </table>
 
