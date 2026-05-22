@@ -48,6 +48,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>Complete Agent Template</td>
+      <td>Production-grade dotnet new template for AI agents on Microsoft Agent Framework with Clean Architecture, RAG, and OpenTelemetry</td>
+      <td><img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Agent_Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Agent Framework" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
+      <td><a href="https://github.com/encryptedtouhid/et-complete-agent" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
       <td>VaultBot</td>
       <td>Security-first, Your Personal Autonomous AI assistant.</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></td>
@@ -171,6 +177,12 @@
       <td>CPU throttling library for ASP.NET Core</td>
       <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
       <td><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td>Complete Agent Template</td>
+      <td>dotnet new template for AI agents on Microsoft Agent Framework</td>
+      <td><img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
+      <td><a href="https://www.nuget.org/packages/EncryptedTouhid.AgentFramework.Templates/" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
     <tr>
       <td>GUI Brew</td>
