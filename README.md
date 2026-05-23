@@ -29,7 +29,7 @@
 
 ---
 
-### Notable Projects
+### AI Agents
 
 <table width="100%">
   <colgroup>
@@ -51,7 +51,7 @@
       <td>Complete Agent Template</td>
       <td>Production-grade dotnet new template for AI agents on Microsoft Agent Framework with Clean Architecture, RAG, and OpenTelemetry</td>
       <td><img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Agent_Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Agent Framework" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
-      <td><a href="https://github.com/encryptedtouhid/et-complete-agent" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td><a href="https://github.com/encryptedtouhid/et-complete-agent" target="_blank" rel="noopener noreferrer">REPO</a> · <a href="https://www.nuget.org/packages/EncryptedTouhid.AgentFramework.Templates/" target="_blank" rel="noopener noreferrer">NUGET</a></td>
     </tr>
     <tr>
       <td>VaultBot</td>
@@ -59,6 +59,35 @@
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></td>
       <td><a href="https://github.com/encryptedtouhid/project_zen_bot" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
+    <tr>
+      <td>DevOps Automation Agent</td>
+      <td>AI-powered agent for automating DevOps pipelines, infrastructure provisioning, and deployment workflows</td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
+      <td><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### RAG &amp; Knowledge Retrieval
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Zoho Mail RAG</td>
       <td>RAG system for searching and querying your Zoho Mail inbox using natural language</td>
@@ -72,18 +101,6 @@
       <td><a href="https://github.com/encryptedtouhid/threat-intel-graph-rag" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
     <tr>
-      <td>DevOps Automation Agent</td>
-      <td>AI-powered agent for automating DevOps pipelines, infrastructure provisioning, and deployment workflows</td>
-      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
-      <td><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>Movie Data Analysis</td>
-      <td>ML-powered analytics platform for MovieLens 10M dataset with recommendation engine and insights</td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></td>
-      <td><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
       <td>RAG with Ollama</td>
       <td>.NET 9 console application implementing Retrieval-Augmented Generation with local LLM support</td>
       <td><img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></td>
@@ -95,6 +112,35 @@
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" /></td>
       <td><a href="https://github.com/encryptedtouhid/KnowledgeGraphVisualization" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
+  </tbody>
+</table>
+
+---
+
+### ML &amp; Analytics
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NameGuard.ML</td>
+      <td>ML-powered library to detect real vs fake/junk names, offline and microsecond-fast</td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ML.NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
+      <td><a href="https://github.com/encryptedtouhid/NameGuard.ML" target="_blank" rel="noopener noreferrer">REPO</a> · <a href="https://www.nuget.org/packages/NameGuard.ML.Core" target="_blank" rel="noopener noreferrer">NUGET</a></td>
+    </tr>
     <tr>
       <td>FinLens</td>
       <td>AI-driven expense management platform with ML-powered transaction categorization and anomaly detection</td>
@@ -102,22 +148,51 @@
       <td><a href="https://github.com/encryptedtouhid/FinLens" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
     <tr>
-      <td>Blazor Micro Frontends</td>
-      <td>Micro frontend architecture implementation using Blazor WebAssembly for modular web apps</td>
-      <td><img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></td>
-      <td><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td>Movie Data Analysis</td>
+      <td>ML-powered analytics platform for MovieLens 10M dataset with recommendation engine and insights</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></td>
+      <td><a href="https://github.com/encryptedtouhid/movie_data_analysis_platform" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Developer Tools &amp; Libraries
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CpuGuard.NET</td>
+      <td>CPU throttling library for ASP.NET Core</td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
+      <td><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
     <tr>
-      <td>YT2PPT</td>
-      <td>Convert YouTube videos into PowerPoint presentations with AI-generated slides and summaries</td>
-      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></td>
-      <td><a href="https://github.com/encryptedtouhid/YT2PPT" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td>CxCommenter</td>
+      <td>VS Code extension for automatic code comments</td>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></td>
+      <td><a href="https://github.com/encryptedtouhid/CXCommenter" target="_blank" rel="noopener noreferrer">REPO</a> · <a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer">MARKETPLACE</a></td>
     </tr>
     <tr>
-      <td>GUI Brew</td>
-      <td>Native macOS GUI application for managing Homebrew packages with an intuitive interface</td>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td>
-      <td><a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td>RestMSSQL</td>
+      <td>Zero-code REST API server for MSSQL database</td>
+      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /></td>
+      <td><a href="https://github.com/encryptedtouhid/RestMSSQL" target="_blank" rel="noopener noreferrer">REPO</a> · <a href="https://www.npmjs.com/package/restmssql" target="_blank" rel="noopener noreferrer">NPM</a></td>
     </tr>
     <tr>
       <td>GitHub README Stats</td>
@@ -125,6 +200,87 @@
       <td><img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" /> <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" /> <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" /></td>
       <td><a href="https://github.com/encryptedtouhid/github_readme_stats" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
+  </tbody>
+</table>
+
+---
+
+### Web Architecture
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blazor Micro Frontends</td>
+      <td>Micro frontend architecture implementation using Blazor WebAssembly for modular web apps</td>
+      <td><img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></td>
+      <td><a href="https://github.com/encryptedtouhid/BlazorMicroFrontends" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Desktop Utilities
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GUI Brew</td>
+      <td>Native macOS GUI application for managing Homebrew packages with an intuitive interface</td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td>
+      <td><a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### DevOps &amp; Self-hosting
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>n8n Docker Zero Cost</td>
       <td>Self-hosted n8n workflow automation platform with Docker and zero-cost deployment setup</td>
@@ -136,7 +292,7 @@
 
 ---
 
-### Featured Products
+### Services
 
 <table width="100%">
   <colgroup>
@@ -159,42 +315,6 @@
       <td>World's cheapest international calling solution</td>
       <td><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logoColor=white" alt="Live" /></td>
       <td><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>RestMSSQL</td>
-      <td>Zero-code REST API server for MSSQL database</td>
-      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /></td>
-      <td><a href="https://www.npmjs.com/package/restmssql" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>CxCommenter</td>
-      <td>VS Code extension for automatic code comments</td>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></td>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=KhaledMdTuhidulHossain.CXCommenter" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>CpuGuard.NET</td>
-      <td>CPU throttling library for ASP.NET Core</td>
-      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
-      <td><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>Complete Agent Template</td>
-      <td>dotnet new template for AI agents on Microsoft Agent Framework</td>
-      <td><img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
-      <td><a href="https://www.nuget.org/packages/EncryptedTouhid.AgentFramework.Templates/" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>GUI Brew</td>
-      <td>Native macOS GUI for managing Homebrew packages</td>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td>
-      <td><a href="https://github.com/encryptedtouhid/gui-brew" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>NameGuard.ML</td>
-      <td>ML-powered library to detect real vs fake/junk names, offline and microsecond-fast</td>
-      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ML.NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
-      <td><a href="https://github.com/encryptedtouhid/NameGuard.ML" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
   </tbody>
 </table>
