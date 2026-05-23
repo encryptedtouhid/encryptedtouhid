@@ -180,7 +180,7 @@
       <td>CpuGuard.NET</td>
       <td>CPU throttling library for ASP.NET Core</td>
       <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" /></td>
-      <td><a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td><a href="https://github.com/encryptedtouhid/CpuGuard.NET" target="_blank" rel="noopener noreferrer">REPO</a> · <a href="https://www.nuget.org/packages/CpuGuard.NET" target="_blank" rel="noopener noreferrer">NUGET</a></td>
     </tr>
     <tr>
       <td>CxCommenter</td>
