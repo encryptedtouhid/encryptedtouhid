@@ -16,6 +16,18 @@
 
 ---
 
+### Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/793f582c-802d-4ce3-a9d7-a6967b12011b/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations" width="120" height="120" />
+  </a>
+  <br />
+  <strong>Claude Certified Architect &ndash; Foundations</strong> &middot; Anthropic
+</div>
+
+---
+
 ### GitHub Analytics
 
 <div align="center">
@@ -318,18 +330,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### Certifications
-
-<div align="center">
-  <a href="https://www.credly.com/badges/793f582c-802d-4ce3-a9d7-a6967b12011b/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/size/150x150/images/f2040db3-3904-4240-8966-e87b1510bea0/image.png" alt="Claude Certified Architect - Foundations" width="120" height="120" />
-  </a>
-  <br />
-  <strong>Claude Certified Architect &ndash; Foundations</strong> &middot; Anthropic
-</div>
 
 ---
 
