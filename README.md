@@ -23,7 +23,7 @@
     <img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations" width="120" height="120" />
   </a>
   <br />
-  <strong>Claude Certified Architect &ndash; Foundations</strong> &middot; Anthropic
+  <strong>Claude Certified Architect &ndash; Foundations</strong>
 </div>
 
 ---
