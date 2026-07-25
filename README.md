@@ -77,6 +77,12 @@
       <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
       <td><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
+    <tr>
+      <td>Movie Booking AI Agent</td>
+      <td>A personal AI agent that books movie tickets for you, with agentic payment support</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&logoColor=white" alt="AI Agents" /> <img src="https://img.shields.io/badge/Agentic_Payment-00C853?style=flat-square&logoColor=white" alt="Agentic Payment" /></td>
+      <td><a href="https://github.com/encryptedtouhid/movie-booking-ai-agent" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -211,6 +217,12 @@
       <td>.NET 9 API service generating dynamic SVG cards for GitHub profile statistics</td>
       <td><img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 9" /> <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" /> <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG" /></td>
       <td><a href="https://github.com/encryptedtouhid/github_readme_stats" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+    <tr>
+      <td>Google Coding Standard Guide Skill</td>
+      <td>Claude skill providing Google coding standards and style guides for 17 programming languages</td>
+      <td><img src="https://img.shields.io/badge/Claude_Skill-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Skill" /> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /> <img src="https://img.shields.io/badge/17_Languages-181717?style=flat-square&logoColor=white" alt="17 Languages" /></td>
+      <td><a href="https://github.com/encryptedtouhid/google-coding-standard-guide-skill" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
   </tbody>
 </table>
