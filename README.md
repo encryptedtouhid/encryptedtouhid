@@ -72,16 +72,10 @@
       <td><a href="https://github.com/encryptedtouhid/et-complete-agent" target="_blank" rel="noopener noreferrer">REPO</a> · <a href="https://www.nuget.org/packages/EncryptedTouhid.AgentFramework.Templates/" target="_blank" rel="noopener noreferrer">NUGET</a></td>
     </tr>
     <tr>
-      <td>VaultBot</td>
-      <td>Security-first, Your Personal Autonomous AI assistant.</td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></td>
-      <td><a href="https://github.com/encryptedtouhid/project_zen_bot" target="_blank" rel="noopener noreferrer">LINK</a></td>
-    </tr>
-    <tr>
-      <td>DevOps Automation Agent</td>
+      <td>ET.CodeFixer- Automation Agent</td>
       <td>AI-powered agent for automating DevOps pipelines, infrastructure provisioning, and deployment workflows</td>
       <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
-      <td><a href="https://github.com/encryptedtouhid/DevOpsAutomationAgent" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td><a href="https://github.com/encryptedtouhid/ET.CodeFixer-Agent" target="_blank" rel="noopener noreferrer">LINK</a></td>
     </tr>
   </tbody>
 </table>
