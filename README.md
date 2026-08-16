@@ -23,13 +23,13 @@
     <td align="center" width="160">
       <a href="https://www.credly.com/badges/793f582c-802d-4ce3-a9d7-a6967b12011b/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations" width="120" height="120" border="0" /><br />
-        <sub><strong>Claude Certified Architect &ndash; Foundations</strong></sub>
+        <sub><strong><font color="white">Claude Certified Architect &ndash; Foundations</font></strong></sub>
       </a>
     </td>
     <td align="center" width="160">
       <a href="https://www.credly.com/badges/54f2fe3d-07ee-4101-827e-99c5a6057d52/public_url" target="_blank" rel="noopener noreferrer">
         <img src="claude-certified-architect-professional.png" alt="Claude Certified Architect - Professional" width="120" height="120" border="0" /><br />
-        <sub><strong>Claude Certified Architect &ndash; Professional</strong></sub>
+        <sub><strong><font color="white">Claude Certified Architect &ndash; Professional</font></strong></sub>
       </a>
     </td>
   </tr>
