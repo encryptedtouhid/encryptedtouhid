@@ -392,7 +392,7 @@
     <tr>
       <td>Zephy Phone</td>
       <td>Low-cost international calling to 200+ countries from $0.019/min, with no contracts or hidden fees</td>
-      <td><img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /></td>
+      <td><img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /></td>
       <td><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">WEB</a> · <a href="https://apps.apple.com/us/app/zephyphone/id6762011922" target="_blank" rel="noopener noreferrer">IOS</a> · <a href="https://play.google.com/store/apps/details?id=com.zephyphone.mobile" target="_blank" rel="noopener noreferrer">ANDROID</a></td>
     </tr>
   </tbody>
