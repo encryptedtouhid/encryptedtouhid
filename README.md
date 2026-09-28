@@ -120,6 +120,35 @@
 
 ---
 
+### MCP Servers
+
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="45%">
+    <col width="25%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Product</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MailGate MCP</td>
+      <td>MCP server that gives Claude or ChatGPT access to any IMAP/SMTP mailbox, with server-enforced guardrails you set</td>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/IMAP%2FSMTP-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="IMAP/SMTP" /></td>
+      <td><a href="https://github.com/encryptedtouhid/mailgate-mcp" target="_blank" rel="noopener noreferrer">LINK</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### RAG &amp; Knowledge Retrieval
 
 <table width="100%">
