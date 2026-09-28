@@ -391,9 +391,9 @@
   <tbody>
     <tr>
       <td>Zephy Phone</td>
-      <td>World's cheapest international calling solution</td>
-      <td><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logoColor=white" alt="Live" /></td>
-      <td><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">LINK</a></td>
+      <td>Low-cost international calling to 200+ countries from $0.019/min, with no contracts or hidden fees</td>
+      <td><img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /></td>
+      <td><a href="https://zephyphone.com" target="_blank" rel="noopener noreferrer">WEB</a> · <a href="https://apps.apple.com/us/app/zephyphone/id6762011922" target="_blank" rel="noopener noreferrer">IOS</a> · <a href="https://play.google.com/store/apps/details?id=com.zephyphone.mobile" target="_blank" rel="noopener noreferrer">ANDROID</a></td>
     </tr>
   </tbody>
 </table>
